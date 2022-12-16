@@ -11,7 +11,7 @@ function renderStarships(starships) {
         <div class="card-body">
           <h5 class="card-title">${starship.name}</h5>
           <p class="card-text"></p>
-          <a href="./starship.html?${starship.uid}" class="btn btn-sm btn-warning">Read More About The ${starship.name} Species</a>
+          <a href="./starship.html?${starship.uid}" class="btn btn-sm btn-warning">Read More About The ${starship.name} Starship</a>
         </div>
       </div>
         `)
