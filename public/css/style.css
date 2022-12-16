@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/BfemybeKVXCf9pgX9WCxsc.jpg);
+}
+
+#nameBg{
+    background-image: url(../img/BfemybeKVXCf9pgX9WCxsc.jpg) !important;
+    color: #ffc107;
+    font-family: fantasy;
+}
+
+.filmLabel{
+    font-size: 2.5rem;
+}
+
+.filmText{
+    font-size: 2rem;
+}
