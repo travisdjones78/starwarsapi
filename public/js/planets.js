@@ -10,7 +10,7 @@ function renderPlanets(planets) {
         <div class="card-body">
           <h5 class="card-title">${planet.name}</h5>
           <p class="card-text"></p>
-          <a href="./planet.html?${idx}" class="btn btn-sm btn-warning">Read More About </a>
+          <a href="./planet.html?${idx}" class="btn btn-sm btn-warning">Read More About The ${planet.name} Planet</a>
         </div>
       </div>
         `)
