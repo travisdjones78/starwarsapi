@@ -1,5 +1,5 @@
 #   **Welcome To Star Wars API**
-This is my Star Wars API Project. es. So I will walk thru the steps you must take in order to make sure you get full use out of this. Here are the steps that will be taken:
+This is my Star Wars API Project. So I will walk thru the steps you must take in order to make sure you get full use out of this. Here are the steps that will be taken:
 - Installing all depedencies to give the project what it needs to run
 - Starting up the server
 
